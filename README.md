@@ -1,2 +1,3 @@
 # hello-world
 I am new to this...
+I am brand new to this and trying to learn how to read and write code in my pursuit of a career in IT at Amazon.  
